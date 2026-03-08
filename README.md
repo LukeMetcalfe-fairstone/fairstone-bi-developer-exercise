@@ -33,8 +33,8 @@ You may use **any SQL or transformation environment**:
 1. Click **Use this template → Create a new repository**
 2. Name it: `fairstone-bi-dev-exercise-<yourname>` and set **Private**
 3. Add your files under `/submission`
-4. Add our reviewer account as collaborator: `<YOUR_GITHUB_USERNAME>`
-5. Email your repo link to **recruitment@fairstone.co.uk**
+4. Add our reviewer account as collaborator: LukeMetcalfe-fairstone
+5. Email your repo link to me or recruiter.
 
 ## 📧 If GitHub isn’t possible
-Email the three files instead with subject: *BI Developer Take‑Home – <Your Name>*
+Email the three files instead with subject: *BI Developer Take‑Home – <Your Name>* to me or recruiter.
