@@ -1,0 +1,41 @@
+product_id,product_family,product_type,product_name
+PRD0001,,Life,Life Plus
+PRD0002,Investments,Unit Trust,Unit Trust Standard
+PRD0003,Mortgages,BTL,BTL Premier
+PRD0004,Protection,Life,Life Standard
+PRD0005,Pensions,SIPP,SIPP Standard
+PRD0006,,SIPP,SIPP Premier
+PRD0007,Pensions,Personal Pension,Personal Pension Premier
+PRD0008,Pension,ISA,ISA Premier
+PRD0009,Investments,Unit Trust,Unit Trust Plus
+PRD0010,Mortgages,BTL,BTL Plus
+PRD0011,Mortgages,BTL,BTL Premier
+PRD0012,Investments,GIA,GIA Plus
+PRD0013,Pensions,Personal Pension,Personal Pension Premier
+PRD0014,Investments,ISA,ISA Plus
+PRD0015,Investments,ISA,ISA Standard
+PRD0016,Investments,GIA,GIA Plus
+PRD0017,Pensions,Personal Pension,Personal Pension Plus
+PRD0018,Protection,Income Protection,Income Protection Plus
+PRD0019,Mortgages,BTL,BTL Standard
+PRD0020,Pensions,Personal Pension,Personal Pension Standard
+PRD0021,Prot,Life,Life Standard
+PRD0022,Pensions,Personal Pension,Personal Pension Plus
+PRD0023,Protection,Income Protection,Income Protection Standard
+PRD0024,Protection,Life,Life Premier
+PRD0025,Mortgages,Residential,Residential Plus
+PRD0026,Pensions,SIPP,SIPP Standard
+PRD0027,Mortgages,Residential,Residential Premier
+PRD0028,Mortgages,BTL,BTL Plus
+PRD0029,Investments,GIA,GIA Standard
+PRD0030,Protection,Critical Illness,Critical Illness Standard
+PRD0031,Investments,GIA,GIA Plus
+PRD0032,Mortgages,Residential,Residential Standard
+PRD0033,Mortgages,BTL,BTL Plus
+PRD0034,,BTL,BTL Standard
+PRD0035,Investments,Unit Trust,Unit Trust Premier
+PRD0036,Mortgages,Remortgage,Remortgage Premier
+PRD0037,Mortgages,Remortgage,Remortgage Premier
+PRD0038,Mortgages,Residential,Residential Standard
+PRD0039,Prot,Residential,Residential Plus
+PRD0040,Investments,ISA,ISA Standard
